@@ -1,6 +1,6 @@
 A landing page of my portfolio with simple HTML and CSS syntax
 
-I follow this tutorial: https://www.youtube.com/watch?v=RroDdybvu5s&t=807s
+I followed this tutorial: https://www.youtube.com/watch?v=RroDdybvu5s&t=807s
 
 Here is the demo:
 
